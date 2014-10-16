@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bma:home|Door43 (bma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bma|d43-bma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bma/archive/master.zip|d43-bma.zip]]
+
+**Recent Changes**
+{{changes>ns = bma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bma|Ethnologue data]]
+
